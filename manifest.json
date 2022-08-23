@@ -1,0 +1,14 @@
+{
+    "name": "AdSkip",
+    "description": "Skip YouTube ads instantly at the press of a button.",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "./background.js"
+    },
+    "permissions": ["webNavigation", "scripting"],
+    "host_permissions": ["https://www.youtube.com/*"],
+    "icons": {
+        "128": "128.png"
+    }
+}
