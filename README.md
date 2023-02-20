@@ -9,7 +9,7 @@ This is a simple Chrome(ium) extension that will load on YouTube pages and allow
 3. Turn on Developer Mode in the top-right corner.
 4. Click "Load unpacked" and select the extension folder.
 
-I will get this onto the Chrome Web Store soon, which will make installation far easier.
+~I will get this onto the Chrome Web Store soon, which will make installation far easier.~ yeah, no.
 
 ## Use
 
